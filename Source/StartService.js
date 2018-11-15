@@ -1,6 +1,6 @@
 "use strict";
 
-const ServerConfig = require("ServerConfig.js");
+const ServerConfig = require("./ServerConfig.js");
 
 let express = require("express");
 let serviceHandler = express();
